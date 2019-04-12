@@ -18,7 +18,7 @@ optional arguments:
   -h, --help            show this help message and exit
   --dirname DIRNAME     Please enter directory name
   --days DAYS           Number of days last accessed
-  --size SIZE           File size in bytes
+  --size SIZE           File size in kilobytes
   --filelimit FILELIMIT
                         specify number of files above which a directory is
                         bigDir
