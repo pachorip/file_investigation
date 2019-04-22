@@ -18,9 +18,9 @@ optional arguments:
   -h, --help            show this help message and exit
   --dirname DIRNAME     Please enter directory name
   --days DAYS           Number of days last accessed
-  --size SIZE           File size in kilobytes
+  --size SIZE           File size in bytes
   --filelimit FILELIMIT
                         specify number of files above which a directory is
                         bigDir
                         
-Example: python3 FileChecker.py --dirname data --days 0 --size 450 --filelimit 4
+Example: python3 FileChecker.py --dirname data --days 2 --size 4000 --filelimit 4
